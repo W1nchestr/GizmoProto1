@@ -1,0 +1,84 @@
+{
+ "nick": "abstractronaut",
+ "wallet": 0,
+ "auth": false,
+ "past_users": [],
+ "chess_wins": 0,
+ "chance": 0,
+ "garage": [],
+ "clan": "Cum",
+ "xp": 1153,
+ "pfp": false,
+ "reason": [],
+ "secret": "",
+ "level": 226,
+ "highest": 13227057611,
+ "metme": 1645422539,
+ "storage": 230,
+ "lockdown": 1645711693,
+ "kit": 0,
+ "last_xp": 1649453631,
+ "jailed": 1646409712,
+ "font_access": true,
+ "font_list": [
+  "%bold",
+  "%italic_bold",
+  "%italic",
+  "%gothic",
+  "%gothic_bold",
+  "%fancy",
+  "%fancy_bold",
+  "%funky",
+  "%boxed",
+  "%emoji",
+  "%bubble",
+  "%smooth",
+  "%outline"
+ ],
+ "font": "%outline",
+ "coins": "\ud83d\udc10\ud83d\udc10\ud83d\udc10\ud83d\udc10\ud83d\udc10\ud83d\udc10\ud83d\udc10\ud83d\udc10\ud83d\udc10\ud83d\udc10\ud83d\udc10\ud83d\udc10\ud83d\udc10\ud83d\udc10\ud83d\udc10",
+ "code": "ERX78",
+ "discord": true,
+ "discord_name": "abstractonaut#2271",
+ "discord_id": 879501052804759582,
+ "hstreak": 3,
+ "hourly": 1649020543,
+ "h_added": 1649027743,
+ "dstreak": 1,
+ "daily": 1649088038,
+ "d_added": 1649109638,
+ "baltop": false,
+ "supercar": 1646146961,
+ "upgrade_status": 23,
+ "job": "",
+ "last_worked": 0,
+ "next_shift": 0,
+ "wage": 0,
+ "hours": 0,
+ "listed": [
+  {
+   "name": "Grill Cook",
+   "wage": 13,
+   "company": "Hacienda"
+  },
+  {
+   "name": "Software Developer",
+   "wage": 30,
+   "company": "Amazon"
+  },
+  {
+   "name": "Cleaner",
+   "wage": [
+    4,
+    18
+   ],
+   "company": "Juicy Lucy's"
+  },
+  {
+   "name": "Dishwasher",
+   "wage": 10,
+   "company": "Chili's"
+  }
+ ],
+ "searched": 1649389353
+}

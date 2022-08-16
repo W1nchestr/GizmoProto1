@@ -1,0 +1,27 @@
+{
+ "chat_id": "2e0ety0qvl69lrd1kiw11638400824057",
+ "owner": {
+  "5445bf1f644fd0cf188b457b": {
+   "nick": "MerpBot",
+   "id": "5445bf1f644fd0cf188b457b"
+  }
+ },
+ "ops": [],
+ "members": [
+  "5dc498355a33f4073464f6f1",
+  "5ac07340f2a67d78092dbbc0",
+  "611a0f60514b390d673d3a45",
+  "60d2be6db6cf016e5312a47f"
+ ],
+ "nopfp": false,
+ "lockdown": false,
+ "title": "Merp merp merp",
+ "disabled": [],
+ "car": "",
+ "worth": "",
+ "admins": [],
+ "mods": [],
+ "type": 2,
+ "banned": [],
+ "messages": 21
+}

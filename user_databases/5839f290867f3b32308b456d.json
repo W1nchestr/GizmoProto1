@@ -1,0 +1,68 @@
+{
+ "nick": "Nacho_Libre546",
+ "wallet": 0,
+ "auth": false,
+ "past_users": [],
+ "chess_wins": 0,
+ "chance": 0,
+ "garage": [],
+ "clan": "",
+ "xp": 6,
+ "pfp": false,
+ "reason": [],
+ "secret": "",
+ "storage": 10,
+ "highest": 1251396,
+ "kit": 0,
+ "level": 10,
+ "metme": 1645465824,
+ "coins": "spongebobs",
+ "last_xp": 1649362979,
+ "font_access": true,
+ "font_list": [
+  "%bold",
+  "%italic_bold",
+  "%italic"
+ ],
+ "font": "%italic_bold",
+ "dstreak": 1,
+ "daily": 1648881202,
+ "d_added": 1648902802,
+ "hstreak": 1,
+ "hourly": 1647056888,
+ "h_added": 1647064088,
+ "job": "",
+ "last_worked": 0,
+ "next_shift": 0,
+ "wage": 0,
+ "hours": 0,
+ "listed": [
+  {
+   "name": "Line Cook",
+   "wage": 9,
+   "company": "In-N-Out"
+  },
+  {
+   "name": "Waiter",
+   "wage": [
+    5,
+    13
+   ],
+   "company": "Texas Roadhouse"
+  },
+  {
+   "name": "Waiter",
+   "wage": [
+    5,
+    13
+   ],
+   "company": "Buffalo Wild Wings"
+  },
+  {
+   "name": "Line Cook",
+   "wage": 9,
+   "company": "Culver's"
+  }
+ ],
+ "searched": 1649403497
+}

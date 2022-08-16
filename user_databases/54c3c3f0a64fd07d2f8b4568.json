@@ -1,0 +1,67 @@
+{
+ "nick": "AngelinaSawula",
+ "wallet": 0,
+ "past_users": [],
+ "chess_wins": 0,
+ "chance": 0,
+ "garage": [],
+ "clan": "Bear",
+ "xp": 146,
+ "pfp": false,
+ "reason": [
+  " \ud83c\udf80\ud83e\uddf8 -[Coding]"
+ ],
+ "secret": "",
+ "storage": 10,
+ "coins": "\ud83c\udf80\ud83e\uddf8",
+ "highest": 28910704,
+ "level": 26,
+ "metme": 1645421053,
+ "last_xp": 1649487319,
+ "font_access": true,
+ "font_list": [
+  "%bold",
+  "%italic_bold",
+  "%italic",
+  "%gothic",
+  "%gothic_bold",
+  "%fancy",
+  "%fancy_bold"
+ ],
+ "font": "%italic_bold",
+ "hstreak": 1,
+ "hourly": 1649040137,
+ "h_added": 1649047337,
+ "dstreak": 2,
+ "daily": 1649092443,
+ "d_added": 1649114043,
+ "supercar": 1646277552,
+ "job": "",
+ "last_worked": 0,
+ "next_shift": 0,
+ "wage": 0,
+ "hours": 0,
+ "listed": [
+  {
+   "name": "Dishwasher",
+   "wage": 7,
+   "company": "Steak n' Shake"
+  },
+  {
+   "name": "Line Cook",
+   "wage": 9,
+   "company": "Burger King"
+  },
+  {
+   "name": "Dishwasher",
+   "wage": 7,
+   "company": "In-N-Out"
+  },
+  {
+   "name": "General Manager",
+   "wage": 16,
+   "company": "McDonald's"
+  }
+ ],
+ "searched": 1649301537
+}

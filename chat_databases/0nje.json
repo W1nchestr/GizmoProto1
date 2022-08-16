@@ -1,0 +1,30 @@
+{
+ "chat_id": "0nje",
+ "owner": {
+  "5445bf1f644fd0cf188b457b": {
+   "nick": "MerpBot",
+   "id": "5445bf1f644fd0cf188b457b"
+  }
+ },
+ "ops": [],
+ "members": [
+  "533f88c14489a692548b4567",
+  "54c3c3f0a64fd07d2f8b4568",
+  "569554035831b4ae1f8b4573",
+  "571d3cb955bff9984a8b4589",
+  "5ed6ba6b0f6c05530d7a1060",
+  "611a0f60514b390d673d3a45",
+  "5dc498355a33f4073464f6f1"
+ ],
+ "nopfp": false,
+ "lockdown": false,
+ "title": "BoobsV2",
+ "disabled": [],
+ "car": "None",
+ "worth": 0,
+ "admins": [],
+ "mods": [],
+ "type": 3,
+ "banned": [],
+ "messages": 140
+}

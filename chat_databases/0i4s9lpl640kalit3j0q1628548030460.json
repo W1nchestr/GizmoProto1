@@ -1,0 +1,33 @@
+{
+ "chat_id": "0i4s9lpl640kalit3j0q1628548030460",
+ "owner": {
+  "5445bf1f644fd0cf188b457b": {
+   "nick": "MerpBot",
+   "id": "5445bf1f644fd0cf188b457b"
+  }
+ },
+ "ops": [],
+ "members": [
+  "596d70232bfe7dc5688b4571",
+  "5f969f31b9e1594dbb28546c",
+  "60397a8d107a925cb90265e8",
+  "551f9025b438a9f70b8b4572",
+  "6031711cd3b0c31a683e8e8b",
+  "5dc498355a33f4073464f6f1",
+  "611a0f60514b390d673d3a45",
+  "52a0ea6da789a6e3778b4567",
+  "596d386416f2dbb4118b456c",
+  "557e26fb484fd0325c8b456c"
+ ],
+ "nopfp": false,
+ "lockdown": false,
+ "title": "Test",
+ "disabled": [],
+ "car": "",
+ "worth": "",
+ "admins": [],
+ "mods": [],
+ "type": 2,
+ "banned": [],
+ "messages": 38
+}

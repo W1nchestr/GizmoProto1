@@ -1,0 +1,79 @@
+{
+ "nick": "impend",
+ "wallet": 0,
+ "auth": false,
+ "past_users": [],
+ "chess_wins": 0,
+ "chance": 0,
+ "garage": [],
+ "clan": "Cum",
+ "xp": 363,
+ "pfp": false,
+ "reason": [
+  " abuse of rr command -[AngelinaSawula]",
+  " lolol -[dank]"
+ ],
+ "secret": "",
+ "storage": 160,
+ "upgrade_status": 16,
+ "coins": "to launder",
+ "highest": 356299410,
+ "level": 225,
+ "metme": 1645450272,
+ "last_xp": 1649520447,
+ "font_access": true,
+ "font_list": [
+  "%bold",
+  "%italic_bold",
+  "%italic",
+  "%gothic",
+  "%gothic_bold",
+  "%fancy",
+  "%fancy_bold",
+  "%funky",
+  "%boxed",
+  "%emoji",
+  "%bubble",
+  "%smooth",
+  "%outline"
+ ],
+ "font": "%outline",
+ "supercar": 1647097887,
+ "hstreak": 3,
+ "hourly": 1649018464,
+ "h_added": 1649025664,
+ "dstreak": 1,
+ "daily": 1649052341,
+ "d_added": 1649073941,
+ "job": "",
+ "last_worked": 0,
+ "next_shift": 0,
+ "wage": 0,
+ "hours": 0,
+ "listed": [
+  {
+   "name": "Software Developer",
+   "wage": 30,
+   "company": "Apple"
+  },
+  {
+   "name": "Drive-Thru Op",
+   "wage": 8,
+   "company": "Burger King"
+  },
+  {
+   "name": "Dishwasher",
+   "wage": 10,
+   "company": "Buffalo Wild Wings"
+  },
+  {
+   "name": "Cleaner",
+   "wage": [
+    4,
+    18
+   ],
+   "company": "Landing Strip"
+  }
+ ],
+ "searched": 1649529567
+}

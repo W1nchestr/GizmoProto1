@@ -1,0 +1,77 @@
+{
+ "nick": "SilentPhantom",
+ "wallet": 1000,
+ "auth": false,
+ "past_users": [
+  "hacker",
+  "SilentPhantom"
+ ],
+ "chess_wins": 0,
+ "chance": 0,
+ "garage": [],
+ "clan": "Martians",
+ "xp": 503,
+ "pfp": false,
+ "reason": [],
+ "secret": "",
+ "storage": 40,
+ "upgrade_status": 4,
+ "highest": 3709931978913176,
+ "level": 265,
+ "metme": 1645436963,
+ "last_xp": 1660690816,
+ "font_access": true,
+ "font_list": [
+  "%bold",
+  "%italic_bold",
+  "%italic",
+  "%gothic",
+  "%gothic_bold",
+  "%fancy",
+  "%fancy_bold",
+  "%funky",
+  "%boxed",
+  "%emoji",
+  "%bubble",
+  "%smooth",
+  "%outline"
+ ],
+ "font": "%fancy",
+ "supercar": 1646585792,
+ "dstreak": 1,
+ "daily": 1649023023,
+ "d_added": 1649044623,
+ "hstreak": 1,
+ "hourly": 1648940232,
+ "h_added": 1648947432,
+ "baltop": false,
+ "job": "",
+ "last_worked": 0,
+ "next_shift": 0,
+ "wage": 0,
+ "hours": 0,
+ "coins": "booba",
+ "listed": [
+  {
+   "name": "Website Designer",
+   "wage": 22,
+   "company": "Dell"
+  },
+  {
+   "name": "Software Developer",
+   "wage": 30,
+   "company": "Ubisoft"
+  },
+  {
+   "name": "Software Developer",
+   "wage": 30,
+   "company": "Microsoft"
+  },
+  {
+   "name": "Grill Cook",
+   "wage": 13,
+   "company": "Joe's Crab Shack"
+  }
+ ],
+ "searched": 1649549689
+}

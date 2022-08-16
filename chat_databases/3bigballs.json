@@ -1,0 +1,34 @@
+{
+ "chat_id": "3bigballs",
+ "owner": {
+  "5445bf1f644fd0cf188b457b": {
+   "nick": "MerpBot",
+   "id": "5445bf1f644fd0cf188b457b"
+  }
+ },
+ "ops": [],
+ "members": [
+  "60d2be6db6cf016e5312a47f",
+  "6031711cd3b0c31a683e8e8b",
+  "611a0f60514b390d673d3a45",
+  "5f7bef1cf68b4055b978b30d",
+  "5506eb31454fd0754e8b456f",
+  "52d371654289a6a3188b457b",
+  "57fe4f656a7f3bbfc18b4569",
+  "5d287c7176ffaf6faa7eeb78",
+  "57fa625350984d18e08b456e",
+  "579542d9b2984d163b8b456a",
+  "5b037279f952fd33b917f5f9"
+ ],
+ "nopfp": false,
+ "lockdown": false,
+ "title": "Up In Flames",
+ "disabled": [],
+ "car": "",
+ "worth": "",
+ "admins": [],
+ "mods": [],
+ "type": 3,
+ "banned": [],
+ "messages": 1
+}

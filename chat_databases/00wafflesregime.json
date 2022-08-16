@@ -1,0 +1,27 @@
+{
+ "chat_id": "00wafflesregime",
+ "owner": {
+  "5da67ee12dc0296cff773ad3": {
+   "nick": "WaffleHouse___Babe",
+   "id": "5da67ee12dc0296cff773ad3"
+  }
+ },
+ "ops": [],
+ "members": [
+  "5dc498355a33f4073464f6f1",
+  "5445bf1f644fd0cf188b457b",
+  "611a0f60514b390d673d3a45",
+  "617d1b79f8eba62d0f4c820b",
+  "6031711cd3b0c31a683e8e8b"
+ ],
+ "nopfp": false,
+ "lockdown": false,
+ "title": "\ud83e\uddc7\ud83e\uddc7WaffleHouseRegime\ud83e\uddc7\ud83e\uddc7",
+ "disabled": [],
+ "car": "",
+ "worth": "",
+ "admins": [],
+ "mods": [],
+ "type": 3,
+ "banned": []
+}

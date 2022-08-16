@@ -1,0 +1,26 @@
+{
+ "chat_id": "2ic8076onyxrc1ixptfa1644341747010",
+ "owner": {
+  "5445bf1f644fd0cf188b457b": {
+   "nick": "MerpBot",
+   "id": "5445bf1f644fd0cf188b457b"
+  }
+ },
+ "ops": [],
+ "members": [
+  "61ecfc4b5fc42c781a287bcb",
+  "5dc498355a33f4073464f6f1",
+  "611a0f60514b390d673d3a45"
+ ],
+ "nopfp": false,
+ "lockdown": false,
+ "title": "Subscriber group chat",
+ "disabled": [],
+ "car": "",
+ "worth": "",
+ "admins": [],
+ "mods": [],
+ "type": 2,
+ "banned": [],
+ "messages": 145
+}

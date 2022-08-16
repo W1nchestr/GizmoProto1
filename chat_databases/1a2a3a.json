@@ -1,0 +1,26 @@
+{
+ "chat_id": "1a2a3a",
+ "owner": {
+  "5b362683087910eec379d86b": {
+   "nick": "GoofyGoober1",
+   "id": "5b362683087910eec379d86b"
+  }
+ },
+ "ops": [],
+ "members": [
+  "617d1b79f8eba62d0f4c820b",
+  "5445bf1f644fd0cf188b457b"
+ ],
+ "nopfp": false,
+ "lockdown": false,
+ "title": "5  A. M.",
+ "disabled": [],
+ "car": "",
+ "worth": "",
+ "admins": [],
+ "mods": [],
+ "type": 3,
+ "banned": [],
+ "antibot": false,
+ "messages": 199
+}

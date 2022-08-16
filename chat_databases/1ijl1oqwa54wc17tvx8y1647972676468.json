@@ -1,0 +1,26 @@
+{
+ "chat_id": "1ijl1oqwa54wc17tvx8y1647972676468",
+ "owner": {
+  "536ac7c890a6b8c86b8b456f": {
+   "nick": "TheWillowD97",
+   "id": "536ac7c890a6b8c86b8b456f"
+  }
+ },
+ "ops": [],
+ "members": [
+  "617d1b79f8eba62d0f4c820b",
+  "5445bf1f644fd0cf188b457b"
+ ],
+ "nopfp": false,
+ "lockdown": false,
+ "title": "Tests",
+ "disabled": [],
+ "car": "",
+ "worth": "",
+ "admins": [],
+ "mods": [],
+ "type": 2,
+ "banned": [],
+ "antibot": false,
+ "messages": 8
+}

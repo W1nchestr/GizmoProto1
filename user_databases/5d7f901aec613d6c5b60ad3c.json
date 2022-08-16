@@ -1,0 +1,66 @@
+{
+ "nick": "Reiterate2",
+ "wallet": 0,
+ "auth": false,
+ "past_users": [],
+ "chess_wins": 0,
+ "chance": 0,
+ "garage": [],
+ "clan": "",
+ "xp": 77,
+ "pfp": false,
+ "reason": [],
+ "secret": "",
+ "storage": 10,
+ "highest": 40338160,
+ "coins": "/\\/ iggers",
+ "level": 59,
+ "metme": 1645453156,
+ "last_xp": 1659451412,
+ "font_access": true,
+ "font_list": [
+  "%bold",
+  "%italic_bold",
+  "%italic",
+  "%gothic",
+  "%gothic_bold",
+  "%fancy",
+  "%fancy_bold"
+ ],
+ "font": "%italic_bold",
+ "supercar": 1646117719,
+ "dstreak": 1,
+ "daily": 1648074358,
+ "d_added": 1648095958,
+ "hstreak": 1,
+ "hourly": 1647991566,
+ "h_added": 1647998766,
+ "job": "",
+ "last_worked": 0,
+ "next_shift": 0,
+ "wage": 0,
+ "hours": 0,
+ "listed": [
+  {
+   "name": "IT Tech",
+   "wage": 25,
+   "company": "Treyarch"
+  },
+  {
+   "name": "Dishwasher",
+   "wage": 7,
+   "company": "In-N-Out"
+  },
+  {
+   "name": "Dishwasher",
+   "wage": 7,
+   "company": "Culver's"
+  },
+  {
+   "name": "Manager",
+   "wage": 13,
+   "company": "Burger King"
+  }
+ ],
+ "searched": 1659493875
+}

@@ -1,0 +1,67 @@
+{
+ "nick": "Scropts",
+ "wallet": 0,
+ "past_users": [
+  "Scropts"
+ ],
+ "chess_wins": 0,
+ "chance": 0,
+ "garage": [],
+ "clan": "Silky",
+ "xp": 618,
+ "pfp": false,
+ "reason": [
+  " bc i wanna -[silky]"
+ ],
+ "secret": "",
+ "metme": 1646113695,
+ "last_xp": 1649443157,
+ "level": 929,
+ "font_access": true,
+ "font_list": [
+  "%bold",
+  "%italic_bold",
+  "%italic",
+  "%gothic",
+  "%gothic_bold",
+  "%fancy",
+  "%fancy_bold",
+  "%funky",
+  "%boxed",
+  "%emoji",
+  "%bubble",
+  "%smooth",
+  "%outline"
+ ],
+ "font": "%outline",
+ "highest": 0,
+ "points": 2,
+ "job": "",
+ "last_worked": 0,
+ "next_shift": 0,
+ "wage": 0,
+ "hours": 0,
+ "listed": [
+  {
+   "name": "Manager",
+   "wage": 13,
+   "company": "Burger King"
+  },
+  {
+   "name": "Manager",
+   "wage": 27,
+   "company": "Plan B"
+  },
+  {
+   "name": "Manager",
+   "wage": 27,
+   "company": "Juicy Lucy's"
+  },
+  {
+   "name": "Software Developer",
+   "wage": 30,
+   "company": "Google"
+  }
+ ],
+ "searched": 1649282065
+}

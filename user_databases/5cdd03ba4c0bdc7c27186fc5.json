@@ -1,0 +1,74 @@
+{
+ "nick": "actavis",
+ "wallet": 0,
+ "auth": false,
+ "past_users": [
+  "freecrack",
+  "realniga",
+  "realniggah",
+  "codeine",
+  "twiz",
+  "7947",
+  "LilUzi",
+  "actavis"
+ ],
+ "chess_wins": 0,
+ "chance": 0,
+ "garage": [],
+ "clan": "",
+ "xp": 37,
+ "pfp": false,
+ "reason": [
+  " sus -[SilentPhantom]"
+ ],
+ "secret": "",
+ "storage": 10,
+ "highest": 140200000,
+ "level": 44,
+ "metme": 1645453576,
+ "last_xp": 1660690847,
+ "font_access": true,
+ "font_list": [
+  "%bold",
+  "%italic_bold",
+  "%italic",
+  "%gothic",
+  "%gothic_bold",
+  "%fancy",
+  "%fancy_bold"
+ ],
+ "font": "%italic_bold",
+ "supercar": 1646650539,
+ "baltop": false,
+ "job": "",
+ "last_worked": 0,
+ "next_shift": 0,
+ "wage": 0,
+ "hours": 0,
+ "listed": [
+  {
+   "name": "Line Cook",
+   "wage": 9,
+   "company": "Burger King"
+  },
+  {
+   "name": "Dishwasher",
+   "wage": 7,
+   "company": "Dairy Queen"
+  },
+  {
+   "name": "Waiter",
+   "wage": [
+    5,
+    13
+   ],
+   "company": "Fuddrucker's"
+  },
+  {
+   "name": "Manager",
+   "wage": 13,
+   "company": "Steak n' Shake"
+  }
+ ],
+ "searched": 1649327079
+}

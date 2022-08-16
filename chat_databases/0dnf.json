@@ -1,0 +1,25 @@
+{
+ "chat_id": "0dnf",
+ "owner": {
+  "5f76055dcd7a362b2536dd6c": {
+   "nick": "Everyones_favorite_Jasper",
+   "id": "5f76055dcd7a362b2536dd6c"
+  }
+ },
+ "ops": [],
+ "members": [
+  "611a0f60514b390d673d3a45",
+  "5445bf1f644fd0cf188b457b"
+ ],
+ "nopfp": false,
+ "lockdown": false,
+ "title": "Jasper nation",
+ "disabled": [],
+ "car": "",
+ "worth": "",
+ "admins": [],
+ "mods": [],
+ "type": 3,
+ "banned": [],
+ "messages": 12
+}

@@ -1,0 +1,76 @@
+{
+ "nick": "BabyMeme",
+ "wallet": 0,
+ "auth": false,
+ "past_users": [],
+ "chess_wins": 0,
+ "chance": 0,
+ "garage": [],
+ "clan": "Gay",
+ "xp": 74,
+ "pfp": false,
+ "reason": [],
+ "secret": "",
+ "storage": 100,
+ "metme": 1645809730,
+ "last_xp": 1649448919,
+ "level": 94,
+ "font_access": true,
+ "font_list": [
+  "%bold",
+  "%italic_bold",
+  "%italic",
+  "%gothic",
+  "%gothic_bold",
+  "%fancy",
+  "%fancy_bold",
+  "%funky",
+  "%boxed",
+  "%emoji",
+  "%bubble",
+  "%smooth"
+ ],
+ "font": "%fancy",
+ "highest": 2064099536,
+ "supercar": 1646289380,
+ "upgrade_status": 10,
+ "baltop": false,
+ "dstreak": 1,
+ "daily": 1649117634,
+ "d_added": 1649139234,
+ "coins": "hebrew slaves",
+ "hstreak": 1,
+ "hourly": 1649034840,
+ "h_added": 1649042040,
+ "job": "",
+ "last_worked": 0,
+ "next_shift": 0,
+ "wage": 0,
+ "hours": 0,
+ "listed": [
+  {
+   "name": "Drive-Thru Op",
+   "wage": 8,
+   "company": "In-N-Out"
+  },
+  {
+   "name": "Manager",
+   "wage": 13,
+   "company": "Culver's"
+  },
+  {
+   "name": "Waiter",
+   "wage": [
+    5,
+    13
+   ],
+   "company": "Jone's BBQ and Foot Massage"
+  },
+  {
+   "name": "Manager",
+   "wage": 16,
+   "company": "Fuddrucker's"
+  }
+ ],
+ "searched": 1649416013
+}

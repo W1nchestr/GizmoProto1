@@ -1,0 +1,29 @@
+{
+ "chat_id": "1zejejmwtlmm5wxied521648213817926",
+ "owner": {
+  "5fd8d038bf6b277c281b85e8": {
+   "nick": "Meme_Master",
+   "id": "5fd8d038bf6b277c281b85e8"
+  }
+ },
+ "ops": [],
+ "members": [
+  "584c1b204d9c4dc7e98b4568",
+  "5445bf1f644fd0cf188b457b",
+  "617d1b79f8eba62d0f4c820b",
+  "60d2be6db6cf016e5312a47f",
+  "6031711cd3b0c31a683e8e8b"
+ ],
+ "nopfp": false,
+ "lockdown": false,
+ "title": "\u00c8w\u00c9",
+ "disabled": [],
+ "car": "",
+ "worth": "",
+ "admins": [],
+ "mods": [],
+ "type": 2,
+ "banned": [],
+ "antibot": false,
+ "messages": 9
+}

@@ -1,0 +1,67 @@
+{
+ "nick": "I_DARE_YOU_TO_OPEN_MY_ACC",
+ "wallet": 0,
+ "auth": false,
+ "past_users": [],
+ "chess_wins": 0,
+ "chance": 0,
+ "garage": [],
+ "clan": "",
+ "xp": 17,
+ "pfp": false,
+ "reason": [],
+ "secret": "",
+ "highest": 201141706,
+ "code": "WT231",
+ "discord": true,
+ "discord_name": "\ud835\udd4e\ud835\udd56\ud835\udd65 \ud835\udd4b\ud835\udd56\ud835\udd5f\ud835\udd65#4445",
+ "discord_id": 754771328124321852,
+ "coins": "\ud83d\udfe9\ud83d\udfe8\ud83d\udfe5\ud83d\udfe9\ud83d\udfe8\ud83d\udfe5\ud83d\udfe9\ud83d\udfe8\ud83d\udfe5\ud83d\udfe9\ud83d\udfe8\ud83d\udfe5\ud83d\udfe9\ud83d\udfe8\ud83d\udfe5",
+ "metme": 1647396458,
+ "last_xp": 1649443029,
+ "level": 18,
+ "font_access": true,
+ "font_list": [
+  "%bold",
+  "%italic_bold",
+  "%italic"
+ ],
+ "font": "%italic_bold",
+ "storage": 40,
+ "supercar": 16475,
+ "hstreak": 1,
+ "hourly": 1648057137,
+ "h_added": 1648064337,
+ "dstreak": 1,
+ "daily": 1648139940,
+ "d_added": 1648161540,
+ "upgrade_status": 4,
+ "job": "",
+ "last_worked": 0,
+ "next_shift": 0,
+ "wage": 0,
+ "hours": 0,
+ "listed": [
+  {
+   "name": "Dishwasher",
+   "wage": 7,
+   "company": "In-N-Out"
+  },
+  {
+   "name": "Manager",
+   "wage": 13,
+   "company": "McDonald's"
+  },
+  {
+   "name": "Dishwasher",
+   "wage": 7,
+   "company": "Dairy Queen"
+  },
+  {
+   "name": "Dishwasher",
+   "wage": 10,
+   "company": "Red Lobster"
+  }
+ ],
+ "searched": 1649551359
+}

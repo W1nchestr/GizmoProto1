@@ -1,0 +1,26 @@
+{
+ "chat_id": "1nlw7kuvns4gk487b7o31647112843502",
+ "owner": {
+  "599ae1d079bb88c8398b456d": {
+   "nick": "boxboxboxboxdotnet",
+   "id": "599ae1d079bb88c8398b456d"
+  }
+ },
+ "ops": [],
+ "members": [
+  "5445bf1f644fd0cf188b457b",
+  "617d1b79f8eba62d0f4c820b"
+ ],
+ "nopfp": false,
+ "lockdown": false,
+ "title": "Merp",
+ "disabled": [],
+ "car": "",
+ "worth": "",
+ "admins": [],
+ "mods": [],
+ "type": 2,
+ "banned": [],
+ "antibot": false,
+ "messages": 43
+}

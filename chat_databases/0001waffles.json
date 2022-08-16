@@ -1,0 +1,28 @@
+{
+ "chat_id": "0001waffles",
+ "owner": {
+  "5dc498355a33f4073464f6f1": {
+   "nick": "Cleverbot",
+   "id": "5dc498355a33f4073464f6f1"
+  }
+ },
+ "ops": [],
+ "members": [
+  "5da67ee12dc0296cff773ad3",
+  "5445bf1f644fd0cf188b457b",
+  "611a0f60514b390d673d3a45",
+  "61d11ee7af9fab1854509e7a"
+ ],
+ "nopfp": false,
+ "lockdown": false,
+ "title": "\ud83e\uddc8\ud83e\uddc7MyWaffleregime\ud83e\uddc7\ud83e\uddc8",
+ "disabled": [],
+ "car": "",
+ "worth": "",
+ "admins": [],
+ "mods": [],
+ "type": 3,
+ "banned": [],
+ "messages": 54,
+ "antibot": false
+}

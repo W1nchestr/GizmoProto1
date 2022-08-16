@@ -1,0 +1,31 @@
+{
+ "chat_id": "01ig5lmgegaqk2r5h5ax1645615190526",
+ "owner": {
+  "620c6094174118743b5bd574": {
+   "nick": "Scripts",
+   "id": "620c6094174118743b5bd574"
+  }
+ },
+ "ops": [],
+ "members": [
+  "617d1b79f8eba62d0f4c820b",
+  "516b6481b3a329a81f000017",
+  "516502da20c9358117000002",
+  "6215cf13fb47b810dc2a2979"
+ ],
+ "nopfp": false,
+ "lockdown": false,
+ "title": "Test",
+ "disabled": [],
+ "car": "",
+ "worth": "",
+ "admins": [
+  "620c6094174118743b5bd574"
+ ],
+ "mods": [],
+ "type": 2,
+ "banned": [],
+ "welcome": "sup %user",
+ "antibot": false,
+ "messages": 12
+}
