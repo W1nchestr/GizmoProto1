@@ -1,0 +1,171 @@
+{
+  "jobs": [
+    {
+      "data": {
+        "type": "Fast Food",
+        "companies": [
+          "McDonald's",
+          "Culver's",
+          "Wendy's",
+          "Burger King",
+          "What-A-Burger",
+          "In-N-Out",
+          "Steak n' Shake",
+          "Dairy Queen"
+        ],
+        "positions": [
+          {
+            "name": "Drive-Thru Op",
+            "wage": 8,
+            "min": 1
+          },
+          {
+            "name": "Line Cook",
+            "wage": 9,
+            "min": 6
+          },
+          {
+            "name": "Dishwasher",
+            "wage": 7,
+            "min": 3
+          },
+          {
+            "name": "Manager",
+            "wage": 13,
+            "min": 10
+          },
+          {
+            "name": "General Manager",
+            "wage": 16,
+            "min": 13
+          }
+        ]
+      }
+    },
+    {
+      "data": {
+        "type": "Technology",
+        "companies": [
+          "Apple",
+          "Microsoft",
+          "Google",
+          "Amazon",
+          "Treyarch",
+          "Raven",
+          "Ubisoft",
+          "Dell"
+        ],
+        "positions": [
+          {
+            "name": "Website Designer",
+            "wage": 22,
+            "min": 25
+          },
+          {
+            "name": "IT Tech",
+            "wage": 25,
+            "min": 35
+          },
+          {
+            "name": "Software Developer",
+            "wage": 30,
+            "min": 60
+          },
+          {
+            "name": "CEO",
+            "wage": 100,
+            "min": 175
+          }
+        ]
+      }
+    },
+    {
+      "data": {
+        "type": "Restaurants",
+        "companies": [
+          "Olive Garden",
+          "Texas Roadhouse",
+          "Hacienda",
+          "Chili's",
+          "Fuddrucker's",
+          "Red Lobster",
+          "Buffalo Wild Wings",
+          "Joe's Crab Shack",
+          "Jone's BBQ and Foot Massage"
+        ],
+        "positions": [
+          {
+            "name": "Waiter",
+            "wage": [
+              5,
+              13
+            ],
+            "min": 9
+          },
+          {
+            "name": "Grill Cook",
+            "wage": 13,
+            "min": 15
+          },
+          {
+            "name": "Manager",
+            "wage": 16,
+            "min": 60
+          },
+          {
+            "name": "Dishwasher",
+            "wage": 10,
+            "min": 17
+          }
+        ]
+      }
+    },
+    {
+      "data": {
+        "type": "Strip Clubs",
+        "companies": [
+          "Vanilla Unicorn",
+          "Dancin' Bare",
+          "Landing Strip",
+          "Plan B",
+          "Juicy Lucy's",
+          "Booby Trap",
+          "Bare Assets",
+          "Pole Position",
+          "Bottoms Up"
+        ],
+        "positions": [
+          {
+            "name": "Waiter",
+            "wage": [
+              4,
+              16
+            ],
+            "min": 90
+          },
+          {
+            "name": "Stripper",
+            "wage": [
+              7,
+              17
+            ],
+            "min": 80
+          },
+          {
+            "name": "Manager",
+            "wage": 27,
+            "min": 260
+          },
+          {
+            "name": "Cleaner",
+            "wage": [
+              4,
+              18
+            ],
+            "min": 175
+          }
+        ]
+      }
+    }
+  ]
+}

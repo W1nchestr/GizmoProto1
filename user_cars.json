@@ -1,0 +1,156 @@
+{
+ "dealership": {
+  "dealership": "scripts",
+  "garage": [
+   "Honda Oddysey"
+  ],
+  "dealmake": [
+   "Subaru",
+   "Porsche",
+   "Bugatti",
+   "Chevrolet",
+   "Tesla",
+   "Ford",
+   "Ford",
+   "Porsche",
+   "Dodge",
+   "Bugatti"
+  ],
+  "dealmodel": [
+   "STI",
+   944,
+   "Divo",
+   "Silverado",
+   "S",
+   "Galaxie",
+   "Maverick",
+   928,
+   "3 Series E21",
+   "Veyron"
+  ],
+  "dealprice": [
+   33495,
+   22500,
+   5700000,
+   32550,
+   81190,
+   17600,
+   19995,
+   82260,
+   24437,
+   3500000
+  ],
+  "worth": [
+   "9538"
+  ],
+  "time": 1660689470,
+  "users": {
+   "1": [
+    "scripts"
+   ],
+   "2": [
+    "scripts"
+   ],
+   "3": [
+    "scripts"
+   ],
+   "4": [
+    "scripts"
+   ],
+   "5": [
+    "scripts"
+   ],
+   "6": [
+    "scripts"
+   ],
+   "7": [],
+   "8": [],
+   "9": [],
+   "10": []
+  },
+  "color": [
+   {
+    "name": "green",
+    "emoji": "\ud83d\udfe2"
+   },
+   {
+    "name": "red",
+    "emoji": "\ud83d\udd34"
+   },
+   {
+    "name": "yellow",
+    "emoji": "\ud83d\udfe1"
+   },
+   {
+    "name": "yellow",
+    "emoji": "\ud83d\udfe1"
+   },
+   {
+    "name": "tan",
+    "emoji": "\ud83d\udfe4"
+   },
+   {
+    "name": "white",
+    "emoji": "\u26aa"
+   },
+   {
+    "name": "purple",
+    "emoji": "\ud83d\udfe3"
+   },
+   {
+    "name": "yellow",
+    "emoji": "\ud83d\udfe1"
+   },
+   {
+    "name": "red",
+    "emoji": "\ud83d\udd34"
+   },
+   {
+    "name": "green",
+    "emoji": "\ud83d\udfe2"
+   }
+  ],
+  "colors": [
+   {
+    "name": "red",
+    "emoji": "\ud83d\udd34"
+   },
+   {
+    "name": "blue",
+    "emoji": "\ud83d\udd35"
+   },
+   {
+    "name": "white",
+    "emoji": "\u26aa"
+   },
+   {
+    "name": "green",
+    "emoji": "\ud83d\udfe2"
+   },
+   {
+    "name": "yellow",
+    "emoji": "\ud83d\udfe1"
+   },
+   {
+    "name": "red",
+    "emoji": "\ud83d\udd34"
+   },
+   {
+    "name": "white",
+    "emoji": "\u26aa"
+   },
+   {
+    "name": "tan",
+    "emoji": "\ud83d\udfe4"
+   },
+   {
+    "name": "yellow",
+    "emoji": "\ud83d\udfe1"
+   },
+   {
+    "name": "yellow",
+    "emoji": "\ud83d\udfe1"
+   }
+  ]
+ }
+}
