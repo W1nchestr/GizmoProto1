@@ -1,0 +1,12 @@
+aiohttp
+giphy_client
+lxml
+requests
+selenium
+bs4
+chess
+matplotlib
+termcolor
+pillow
+websockets
+random_word
